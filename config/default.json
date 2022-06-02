@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://benri:benri123%23@benri.dxjle.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
